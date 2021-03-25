@@ -18,7 +18,7 @@ class App extends React.Component {
     }
     return (
       <div className='container'>
-        <div style={styleObject} className='ui card'>
+        <div style={styleObject}  className='ui card'>
           <div className='content'>
             <h1>Hello, World!</h1>
             <div className='header'>
